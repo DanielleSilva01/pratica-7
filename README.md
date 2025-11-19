@@ -1,23 +1,17 @@
 
----
+# Jogo da Velha em React
 
-# 🕹️ Jogo da Velha em React
-
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto consiste em um **jogo da velha (tic-tac-toe)** desenvolvido utilizando **React** e **Vite**.
 O objetivo foi praticar os conceitos fundamentais do React, como componentes, estado e renderização dinâmica, criando um jogo interativo e funcional diretamente no navegador.
 
----
+##  Tecnologias Utilizadas
 
-## 🧰 Tecnologias Utilizadas
+*  React
+*  Vite
 
-* ⚛️ **React**
-* ⚡ **Vite**
-
----
-
-## 🚀 Instruções de Instalação e Execução
+##  Instruções de Instalação e Execução
 
 1. **Instale o Node.js**
    Baixe e instale o Node.js pelo site oficial:
@@ -45,9 +39,7 @@ O objetivo foi praticar os conceitos fundamentais do React, como componentes, es
    Após rodar o comando acima, será exibido no terminal um endereço local (geralmente `http://localhost:5173`).
    Acesse-o em seu navegador para jogar!
 
----
-
-## 💡 Principais Aprendizados
+##  Principais Aprendizados
 
 Durante o desenvolvimento deste projeto, aprendi a:
 
@@ -55,13 +47,3 @@ Durante o desenvolvimento deste projeto, aprendi a:
 * Trabalhar com **componentes funcionais**.
 * Utilizar o **hook useState** para gerenciar o estado do jogo.
 * Entender melhor o fluxo de dados e a reatividade do React.
-
----
-
-## 👨‍💻 Créditos e Autoria
-
-Desenvolvido por **Guilherme Miranda Alves**, com base no tutorial oficial do React:
-🔗 [Tutorial: Jogo da Velha — React Docs](https://react.dev/learn/tutorial-tic-tac-toe)
-
----
-
